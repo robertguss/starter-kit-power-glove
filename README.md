@@ -7,9 +7,10 @@
 
 ## Features
 
-## Screenshot
-
-![Screenshot](https://github.com/statamic/statamic-starter-cool-writings/raw/master/screenshot.png)
+- Laravel Mix
+- PostCSS
+- Tailwind CSS
+- and more...
 
 ## Quick Start
 
