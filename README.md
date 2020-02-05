@@ -1,8 +1,4 @@
-# Power Glove
-
-Power Glove is a Statamic 3 Starter Kit with batteries included.
-
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/NES-Power-Glove.jpg" width="100" alt="Nintendo Power Glove" /></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/NES-Power-Glove.jpg" width="100%" alt="Nintendo Power Glove" /></p>
 <h1 align="center">
   Statamic Starter Kit: Power Glove
 </h1>
