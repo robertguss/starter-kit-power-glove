@@ -1,3 +1,7 @@
+# Work in Progress
+
+> This project is not ready for use, but will be soon...
+
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/NES-Power-Glove.jpg" width="100%" alt="Nintendo Power Glove" /></p>
 <h1 align="center">
   Statamic Starter Kit: Power Glove
