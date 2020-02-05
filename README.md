@@ -1,3 +1,7 @@
+# Power Glove
+
+Power Glove is a Statamic 3 Starter Kit with batteries included.
+
 <p align="center"><img src="https://statamic.com/assets/branding/Statamic-Logo-Rad.svg" width="100" alt="Statamic Logo" /></p>
 <h1 align="center">
   Statamic Starter Kit: Cool Writings
@@ -6,6 +10,7 @@
 ![Statamic 3.0+](https://img.shields.io/badge/Statamic-3.0+-FF269E?style=for-the-badge&link=https://statamic.com)
 
 ## Features
+
 - Articles blogging collection with most recent articles on the home page
 - Markdown focused writing experience
 - Topics taxonomy for Articles
