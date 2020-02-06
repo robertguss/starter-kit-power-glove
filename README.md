@@ -13,8 +13,15 @@
 
 - Laravel Mix
 - PostCSS
+- PurgeCSS
 - Tailwind CSS
-- and more...
+- SCSS
+- ESLint
+- Prettier
+- Stylelint
+- Linting on git pre-commit with Husky & Lint-Staged
+- Editor config - for consistent formatting & conventions
+- VuePress for docs
 
 ## Quick Start
 
@@ -36,6 +43,4 @@ php please make:user
 
 **3. Do your thing!**
 
-If you're using [Laravel Valet](https://laravel.com/docs/valet) (or similar), your site should be available at
-`http://new-site.test`. You can access the control panel at `http://new-site.test/cp` and login with your new user. Open
-up the source code, follow along with the [Statamic 3 docs](https://statamic.dev), and enjoy!
+If you're using [Laravel Valet](https://laravel.com/docs/valet) (or similar), your site should be available at `http://new-site.test`. You can access the control panel at `http://new-site.test/cp` and login with your new user. Open up the source code, follow along with the [Statamic 3 docs](https://statamic.dev), and enjoy!
