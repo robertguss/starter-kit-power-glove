@@ -21,6 +21,8 @@
 - Stylelint
 - Linting on git pre-commit with Husky & Lint-Staged
 - Editor config - for consistent formatting & conventions
+- Jest for unit tests
+- Cypress for E2E tests
 
 ## Quick Start
 
