@@ -7,13 +7,8 @@ module.exports = {
     // https://github.com/shannonmoeller/stylelint-config-prettier
     'stylelint-config-prettier',
   ],
-  plugins: [
-    // https://www.npmjs.com/package/stylelint-order
-    'stylelint-order',
-  ],
+  plugins: [],
   // Rule lists:
   // - https://stylelint.io/user-guide/rules/
-  rules: {
-    'order/properties-alphabetical-order': true,
-  },
+  rules: {},
 };

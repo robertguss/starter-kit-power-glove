@@ -11,7 +11,7 @@
 
 ## Features
 
-- Laravel Mix
+- Parcel JS
 - PostCSS
 - PurgeCSS
 - Tailwind CSS

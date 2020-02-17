@@ -1,23 +1,21 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ site_short_locale }}">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ title }}</title>
-    <meta name="description" content="{{ excerpt ?? title }}">
-    <meta name="theme-color" content="00908F">
-    <link rel="stylesheet" href="{{ mix src='css/site.css' }}">
+    <meta name="description" content="{{ excerpt ?? title }}" />
+    <meta name="theme-color" content="00908F" />
+    <link rel="stylesheet" href="dist/site.css" />
+  </head>
 
-</head>
+  <body
+    class="bg-white font-sans leading-normal text-grey-800 px-4 sm:px-10"
+    x-data="{ showMobileNav: false }"
+  >
+    {{ partial:nav }} {{ template_content }} {{ partial:footer }}
 
-<body class="bg-white font-sans leading-normal text-grey-800 px-4 sm:px-10" x-data="{ showMobileNav: false }">
-    {{ partial:nav }}
-    {{ template_content }}
-    {{ partial:footer }}
-
-    <script src="{{ mix src='/js/site.js' }}"></script>
-</body>
-
+    <script src="dist/site.js"></script>
+  </body>
 </html>

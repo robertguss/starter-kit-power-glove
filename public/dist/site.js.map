@@ -1,0 +1,1 @@
+{"version":3,"sources":["site.js"],"names":["console","log"],"mappings":";;;AAEA,aAFA,QAAA,qBAEAA,QAAQC,IAAI","file":"site.js","sourceRoot":"../../resources/js","sourcesContent":["import '../scss/site.scss';\n\nconsole.log('power glove activated...');\n"]}

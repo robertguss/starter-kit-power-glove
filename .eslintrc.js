@@ -1,5 +1,4 @@
 // http://eslint.org/docs/user-guide/configuring
-// https://github.com/wesbos/eslint-config-wesbos
 module.exports = {
   extends: [
     'airbnb-base',
@@ -21,5 +20,5 @@ module.exports = {
     jest: true,
   },
   rules: {},
-  plugins: ['jest', 'prettier'],
+  plugins: ['jest', 'prettier', 'cypress'],
 };
