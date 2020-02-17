@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "build": "parcel build resources/js/site.js --out-dir public/dist",
-    "dev": "parcel resources/js/site.js",
+    "build": "parcel build resources/js/site.js --no-content-hash --out-dir public/dist",
+    "dev": "parcel resources/js/site.js --out-dir public/dist",
     "lint:eslint": "eslint --fix",
     "lint:stylelint": "stylelint --fix 'src/**/*.{css,scss}'",
     "lint:markdownlint": "markdownlint",

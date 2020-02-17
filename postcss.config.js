@@ -1,4 +1,5 @@
 const autoprefixer = require('autoprefixer');
+// https://tailwindcss.com/docs/controlling-file-size/
 const purgecss = require('@fullhuman/postcss-purgecss')({
   // Specify the paths to all of the template files in your project
   content: ['./resources/**/*.html', './resources/**/*.vue'],
