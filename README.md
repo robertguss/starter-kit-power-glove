@@ -13,15 +13,14 @@
 
 - Parcel JS
 - PostCSS
-- PurgeCSS
 - Tailwind CSS
+- PurgeCSS
 - SCSS
 - ESLint
 - Prettier
 - Stylelint
 - Linting on git pre-commit with Husky & Lint-Staged
 - Editor config - for consistent formatting & conventions
-- VuePress for docs
 
 ## Quick Start
 
